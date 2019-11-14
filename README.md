@@ -1,3 +1,3 @@
 # apc524_git_tutorial
 
-My second repository.
+This one is for git workflow tutorial.
